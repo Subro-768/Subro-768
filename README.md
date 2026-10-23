@@ -1,4 +1,4 @@
-# Hi there, I'm Subro 👋
+# Hi there, I'm SUBHRAJYOTI 👋
 
 Software developer focused on systems programming, Android development, and network tooling.
 
