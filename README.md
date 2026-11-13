@@ -1,14 +1,5 @@
 # Hi, I’m Subhrajyoti 👋
 
-Software developer focused on systems programming, Android development, and network tooling. I build practical software across desktop, mobile, and local-network environments.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-Android%20%26%20Compose-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin and Android">
-  <img src="https://img.shields.io/badge/Python-Backend%20%26%20Tools-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TypeScript-Desktop%20UI-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Linux-Development-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -39,13 +30,41 @@ A desktop workspace for Indian-market research and simulated paper trading.
 
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /><br /><b>Kotlin</b><br /><sub>Android / Compose</sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br /><b>Python</b><br /><sub>APIs & tools</sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br /><b>TypeScript</b><br /><sub>React UI</sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" alt="React" /><br /><b>React</b><br /><sub>Desktop workspace</sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" /><br /><b>FastAPI</b><br /><sub>Local API</sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /><br /><b>Bash</b><br /><sub>Automation</sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br /><b>Git & GitHub</b><br /><sub>Version control</sub></td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" /><br />
+      <b>Kotlin</b><br />
+      <sub>Android / Compose</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br />
+      <b>Python</b><br />
+      <sub>Clients & Scripts</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br />
+      <b>JavaScript</b><br />
+      <sub>Web & GNOME</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /><br />
+      <b>Bash</b><br />
+      <sub>Shell Automation</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="40" height="40" alt="Android" /><br />
+      <b>Android</b><br />
+      <sub>Jetpack Compose</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" width="40" height="40" alt="Fedora" /><br />
+      <b>Fedora Linux</b><br />
+      <sub>Primary Environment</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" /><br />
+      <b>Git & GitHub</b><br />
+      <sub>VCS & Actions</sub>
+    </td>
   </tr>
 </table>
 
