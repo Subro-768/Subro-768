@@ -30,6 +30,8 @@ A desktop workspace for Indian-market research and simulated paper trading.
 
 <table>
   <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" /><br /><b>C</b><br /><sub>Systems foundations</sub></td>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br /><b>C++</b><br /><sub>Data structures</sub></td>
     <td align="center" width="110">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" /><br />
       <b>Python</b><br />
@@ -67,8 +69,6 @@ A desktop workspace for Indian-market research and simulated paper trading.
 
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C" /><br /><b>C</b><br /><sub>Systems foundations</sub></td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /><br /><b>C++</b><br /><sub>Data structures</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" alt="Java" /><br /><b>Java</b><br /><sub>Currently learning</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br /><b>JavaScript</b><br /><sub>Currently learning</sub></td>
     <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/podman/podman-original.svg" width="40" height="40" alt="Podman" /><br /><b>Podman</b><br /><sub>Containers</sub></td>
